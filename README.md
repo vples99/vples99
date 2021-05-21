@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vples99 or Vladimir
 - 👀 I’m currently interested in Machine Learning / Neural Networks and Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on (...)
+- 💞️ I’m looking to collaborate on Python projects, ideally related to Data Science
 - 📫 How to reach me? Find me on LinkedIn, Vladimir Ples
 
 <!---
